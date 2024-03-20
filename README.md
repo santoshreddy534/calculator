@@ -6,8 +6,8 @@ This repository contains a JavaScript calculator application that provides basic
 
 Features:
 
-Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+1. Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-Leverages clear and concise JavaScript code for efficient calculations.
+2. Leverages clear and concise JavaScript code for efficient calculations.
 
-Offers a user-friendly interface (implementation details depend on your approach - web app, command line, etc.).
+3. Offers a user-friendly interface.
