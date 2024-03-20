@@ -1,4 +1,4 @@
-Calculator
+CALCULATOR PROGRAM
 
 Description:
 
